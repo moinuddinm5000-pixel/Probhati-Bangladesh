@@ -1,0 +1,6 @@
+{
+  "name": "Probhati Bangladesh - Bangla News Portal",
+  "description": "বাংলাদেশের আধুনিক, নির্ভরযোগ্য ও দায়িত্বশীল অনলাইন বাংলা সংবাদ পোর্টাল। সর্বশেষ জাতীয়, আন্তর্জাতিক, রাজনীতি, অর্থনীতি, বিনোদন ও খেলার খবর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
